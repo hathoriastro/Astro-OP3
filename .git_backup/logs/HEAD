@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 eb6226dadc46ec20d02c14f47e139c50c1e1f238 hathoriastro <ahmadtovichha@gmail.com> 1763727717 +0700	commit (initial): added gitignore
+eb6226dadc46ec20d02c14f47e139c50c1e1f238 4c493e3fc1725251e6e2661905281cfed78baf6c hathoriastro <ahmadtovichha@gmail.com> 1763728006 +0700	commit: initial
+4c493e3fc1725251e6e2661905281cfed78baf6c 8837c447cfcfc8688a7148da6e30928d2ba90c2b hathoriastro <ahmadtovichha@gmail.com> 1763728100 +0700	commit: fixing gitignore
+8837c447cfcfc8688a7148da6e30928d2ba90c2b 4c926ae1d8e91d9c32648ea8086d0234b8954f42 hathoriastro <ahmadtovichha@gmail.com> 1763728211 +0700	commit: commiting git ignore
+4c926ae1d8e91d9c32648ea8086d0234b8954f42 6b403cddd380b93d2d53f808599381c69c635228 hathoriastro <ahmadtovichha@gmail.com> 1763728814 +0700	commit: fix launch path in setup.py
+6b403cddd380b93d2d53f808599381c69c635228 1be743a6fcba0352bcceaed8d31813cc11c199ff hathoriastro <ahmadtovichha@gmail.com> 1763728878 +0700	commit: adding lokalisasilaunch.py
+1be743a6fcba0352bcceaed8d31813cc11c199ff a40c28df5f68a1e96c56717c38fc69e136f7e87b hathoriastro <ahmadtovichha@gmail.com> 1768912015 +0700	commit: ganti nama topic dan nambahin data Yaw di layar
